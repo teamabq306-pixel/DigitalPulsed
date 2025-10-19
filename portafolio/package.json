@@ -1,0 +1,12 @@
+{
+  "name": "team-abq-portfolio",
+  "version": "1.0.0",
+  "description": "Portafolio empresarial TEAM ABQ",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": ["portfolio", "tecnologia", "desarrollo"],
+  "author": "TEAM ABQ",
+  "license": "MIT"
+}
